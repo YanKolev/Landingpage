@@ -30,11 +30,11 @@
 .B1{
     background-color: #1f2937;
     color: #f9faf8;
-    height: 250px;
+    height: 200px;
 }
 .B2 {
     background-color: white;
-    height: 250px;
+    height: 200px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -42,15 +42,23 @@
 }
 .B3 {
     background-color: #e5e7eb;
-    height: 250px;
+    height: 200px;
     font-size: 36px;
     font-family: light italic;
     color: #1f2937;
 
 }
+.B4 {
+    background-color: #f9faf8;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
 .footer {
     background-color: #1f2937;
     color: #e5e7eb;
+    height: 50px;    
 
 }
 .button {
@@ -62,9 +70,22 @@ height: 100px;
 font-size: 15px;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 padding-left: 15px;
-border: 1px solid rgb(98, 152, 170);
+border: 10px solid rgb(98, 152, 170);
 display: flex;
 justify-content: space-around;
 flex-direction: row;
 align-items: center;
+border-radius: 25px;
+}
+.buttonz {
+   background-color: #3882f6;
+   color: white;
+   border: 1px solid #f9faf8;
+}
+.contentz {
+    background-color: #3882f6;
+    height: 100px;
+    width: 750px;
+    font-size: 30px;
+    color: #f9faf8;
 }
