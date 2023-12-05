@@ -39,7 +39,7 @@
     padding: 20px 5%;
 }
 .section img {
-    height: 250px;
+    height: 350px;
 }
 .section h1 {
     color:#f9faf8;
@@ -50,5 +50,5 @@
 .section p {
     color: #e5e7eb;
     font-size: 18px;
-    text-wrap: wrap;
+    
 }
